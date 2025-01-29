@@ -1,3 +1,7 @@
+# DEPRECATED
+This repository is deprecated as the code has been merged into https://github.com/edgexr/edge-cloud-platform and https://github.com/edgexr/edge-cloud-director repositories.
+It is here just for historical reasons
+
 # Edge-Cloud Infrastructure Platform Code
 
 This repository provides infrastructure and platform specific code for managing virtual machines, Kubernetes clusters, and containers based on the APIs provided by the cloudlet's infrastructure platform.
